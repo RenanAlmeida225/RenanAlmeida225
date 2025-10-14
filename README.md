@@ -64,10 +64,12 @@ Adoto práticas de **TDD**, **CI/CD**, **Docker**, **Kubernetes** e **refatoraç
 
 </p>
 
+<br clear="both"/>
+
 ---
 
 ### 💬 Contato
 
-📍 **Belo Horizonte, MG**
-📧 [RenanAlmeida225@gmail.com](mailto:RenanAlmeida225@gmail.com)
+📍 **Belo Horizonte, MG**  
+📧 [RenanAlmeida225@gmail.com](mailto:RenanAlmeida225@gmail.com)  
 📱 [WhatsApp](https://wa.me/5577999311156)
